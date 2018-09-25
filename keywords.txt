@@ -1,5 +1,4 @@
 WavelengthToRGB	KEYWORD1
-
 GetRed	KEYWORD2
 GetGreen	KEYWORD2
 GetBlue	KEYWORD2

@@ -1,5 +1,5 @@
 /*
-  WavelengthToRGB.h - Library for converting wavelength to RGB values.
+  WavelengthToRGB.cpp - Library for converting wavelength (380nm - 780) to approximate RGB values.
   Created by Jamie G. Howard, September 25, 2018.
   Released into the public domain.
 */
